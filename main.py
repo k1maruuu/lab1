@@ -1,1 +1,2 @@
-print("Bogfed imba")
+if __name__ == '__main__':
+	print('hello')
