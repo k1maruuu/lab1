@@ -1,0 +1,2 @@
+b = "asd"
+print(b)
